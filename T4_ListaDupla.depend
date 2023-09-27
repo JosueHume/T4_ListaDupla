@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1695171270 source:c:\users\josue\onedrive\Área de trabalho\c\t4_listadupla\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
